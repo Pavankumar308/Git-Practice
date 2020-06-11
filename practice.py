@@ -5,3 +5,4 @@ print('extra lines')
 
 print('git config --global core.editor "vim"')
 print('hello')
+print('world')
